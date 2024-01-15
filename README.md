@@ -1,4 +1,4 @@
-# ESPTempLogger
+# ESPTempLogger (DEPRECATED - Please use ESPLogger instead)
 
 The ESPTempLogger is a ESP32 IDF based IoT device. It has an interface for multiple SHT1x sensors (configurable on compile time), 
 some REST-APIs for getting the current data and a web interface for configuration.
